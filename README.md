@@ -7,7 +7,7 @@
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Profile%20views&color=008B8B&style=flat" alt="" /> </p> 
-
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-k-flores-de-la-cruz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 <a href="https://web.facebook.com/LuisKinnDC" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
