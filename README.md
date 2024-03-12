@@ -9,7 +9,7 @@
 <h3 align="center">"Si puedes imaginarlo, puedes programarlo"</h3>
 <h4 align="center">- Alejandro Taboada -</h4>
 
-<br>
+<hr>
 
 <div align="center">
   <h3>Mis Redes:</h3>
