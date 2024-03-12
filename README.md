@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, Soy Luis <br>🌱 Un apasionado programador en sus primeros pasos, <b></b> siempre hambriento por aprender y crecer en el mundo de la tecnología.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskinndc&label=Visitas%20al%20perfil&color=24a5f5&style=flat" alt="luiskinndc" /> </p>
+[![](https://visitcount.itsvg.in/api?id=LuisKinnDC&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
