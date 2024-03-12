@@ -1,9 +1,7 @@
-<!--<div align=center>
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="" height="200">
-</div>-->
+
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=38&center=true&vCenter=true&width=1000&height=60&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Mi+Nombre+es+Luis;Soy+Estudiante+de+Ingeniería+de+Sistemas" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=38&center=true&vCenter=true&width=1000&height=60&font=Pacifico&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Mi+Nombre+es+Luis;Soy+Estudiante+de+Ingeniería+de+Sistemas" alt="Headline" />
 </div>
 
 <div align="center">
