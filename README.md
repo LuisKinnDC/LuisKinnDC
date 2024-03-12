@@ -1,5 +1,4 @@
-<h1 align="center">Hola! 👋, Soy Luis</h1>
-<h3 align="center">🌱 Un apasionado programador en sus primeros pasos, siempre hambriento por aprender y crecer en el mundo de la tecnología. Mi objetivo es sobresalir y contribuir en proyectos que desafíen mi mente y me permitan seguir evolucionando.</h3>
+<h1 align="center">Hola! 👋, Soy Luis Un apasionado programador en sus primeros pasos, siempre hambriento por aprender y crecer en el mundo de la tecnología.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskinndc&label=Profile%20views&color=0e75b6&style=flat" alt="luiskinndc" /> </p>
 
