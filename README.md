@@ -10,7 +10,10 @@
   <a href="https://instagram.com/luiskinndc"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://discord.gg/https://discord.gg/mJawu6CCqs"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
 </div>
-<div align="center">  <img src="https://img.shields.io/github/followers/LuisKinnDC.svg?style=social&label=Follow&maxAge=2592000"></div>
+<div align="center">  
+    <img src="https://img.shields.io/github/followers/LuisKinnDC.svg?style=social&label=Follow&maxAge=2592000">
+    <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Visitas&color=3bc7bb&style=flat" alt=""/>
+</div>
 
 <h3 align="center">"Si puedes imaginarlo, puedes programarlo"</h3>
 <h4 align="center">- Alejandro Taboada -</h4>
