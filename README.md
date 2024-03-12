@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskinndc&label=Visitas%20al%20perfil&color=24a5f5&style=flat" alt="luiskinndc" /> </p>
 
-## 🌐 Socials:
+#🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
 
 
