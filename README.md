@@ -11,7 +11,7 @@
   <a href="https://discord.gg/https://discord.gg/mJawu6CCqs"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
 </div>
 <div align="center">  
-    <img src="https://img.shields.io/github/Seguidores/LuisKinnDC.svg?style=social&label=Follow&maxAge=2592000">
+    <img src="https://img.shields.io/github/followers/LuisKinnDC.svg?style=social&label=Seguidores&maxAge=2592000">
     <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Visitas&color=3bc7bb&style=flat" alt=""/>
 </div>
 
