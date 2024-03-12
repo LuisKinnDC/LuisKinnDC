@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="">
 
 #### Language:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java&theme=light)](https://skillicons.dev)
 
 #### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,spring&theme=light)](https://skillicons.dev)
