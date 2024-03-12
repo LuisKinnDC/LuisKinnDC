@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, Soy Luis <br>🌱 Un apasionado programador en sus primeros pasos, <b></b> siempre hambriento por aprender y crecer en el mundo de la tecnología.</h1>
+<h1 align="center">Hola! 👋, Soy Luis <br>🌱Un apasionado programador en sus primeros pasos</h1>
 
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" /></a>
