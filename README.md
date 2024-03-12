@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Luis <br>🌱 Un apasionado programador en sus primeros pasos, <b></b> siempre hambriento por aprender y crecer en el mundo de la tecnología.</h1>
-
+---
 [![](https://visitcount.itsvg.in/api?id=LuisKinnDC&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
