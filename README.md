@@ -1,9 +1,8 @@
-<h1 align="center">Hola! 👋, Soy Luis</h1>
-<h3 align="center">🌱 Un apasionado programador en sus primeros pasos, siempre hambriento por aprender y crecer en el mundo de la tecnología. Mi objetivo es sobresalir y contribuir en proyectos que desafíen mi mente y me permitan seguir evolucionando.</h3>
+<h1 align="center">Hola! 👋, Soy Luis <br>🌱 Un apasionado programador en sus primeros pasos, <b></b> siempre hambriento por aprender y crecer en el mundo de la tecnología.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiskinndc&label=Visitas%20al%20perfil&color=24a5f5&style=flat" alt="luiskinndc" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis Redes Sociales:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luis-k-flores-de-la-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-k-flores-de-la-cruz" height="30" width="40" /></a>
 <a href="https://fb.com/luiskinndc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luiskinndc" height="30" width="40" /></a>
