@@ -21,7 +21,7 @@
 
 📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
-  </p>-->
+  </p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
