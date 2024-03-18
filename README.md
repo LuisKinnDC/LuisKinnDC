@@ -36,7 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java&theme=light)](https://skillicons.dev)
 
 #### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,spring&theme=light)](https://skillicons.dev)
 
 #### Data Base:
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
