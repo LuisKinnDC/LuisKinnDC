@@ -15,8 +15,8 @@
     <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Visitas&color=3bc7bb&style=flat" alt=""/>
 </div>
 
-<h3 align="center">"Si puedes imaginarlo, puedes programarlo"</h3>
-<h4 align="center">- Alejandro Taboada -</h4>
+<h3 align="center">"Primero resuelve el problema, después escribe el código"</h3>
+<h4 align="center">-  -</h4>
 
 <hr>
 
