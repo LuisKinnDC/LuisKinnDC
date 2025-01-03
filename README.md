@@ -29,7 +29,7 @@
 </div>
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Profile%20views&color=008B8B&style=flat" alt="" /> </p> -->
 
-## Language and Tools
+## Lenguajes y Herramientas
 <!--<img src="https://github.com/LuisKinnDC/Imagenes/blob/main/Imagenes/cumputer-student.png" min-width="500px" max-width="500px" width="500px" align="right" alt="">-->
 
 #### Language:
