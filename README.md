@@ -32,16 +32,16 @@
 ## Lenguajes y Herramientas
 <!--<img src="https://github.com/LuisKinnDC/Imagenes/blob/main/Imagenes/cumputer-student.png" min-width="500px" max-width="500px" width="500px" align="right" alt="">-->
 
-#### Language:
+#### Lenguaje:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java&theme=light)](https://skillicons.dev)
 
 #### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=angular,spring&theme=light)](https://skillicons.dev)
 
-#### Data Base:
+#### Base de Datos:
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
-#### Tools:
+#### Herramientas:
 [![My Skills](https://skillicons.dev/icons?i=ps,idea,vscode,eclipse)](https://skillicons.dev)
 
 <br>
