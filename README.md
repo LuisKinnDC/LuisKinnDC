@@ -1,69 +1,52 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=22D3EE&size=40&center=true&vCenter=true&width=900&height=60&lines=¡Bienvenido+a+mi+espacio+profesional!;Luis+Flores+De+La+Cruz;Ingeniero+de+Sistemas+e+Información" alt="Título profesional"/>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=3bc7bb&size=38&center=true&vCenter=true&width=1000&height=60&font=Architects+Daughter&lines=¡Bienvenido+a+mi+perfil!;Mi+Nombre+es+Luis+Kinn+DC;Soy+Estudiante+de+Ingeniería+de+Sistemas+e+Informacion" alt="Headline" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luis-k-flores-de-la-cruz/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:luiskinndc@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://luiskinn.dev">
-    <img src="https://img.shields.io/badge/-Portafolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/luis-k-flores-de-la-cruz/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://web.facebook.com/LuisKinnDC"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://instagram.com/luiskinndc"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://discord.gg/https://discord.gg/mJawu6CCqs"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
 </div>
+<div align="center">  
+    <img src="https://img.shields.io/github/followers/LuisKinnDC.svg?style=social&label=Seguidores&maxAge=2592000">
+    <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Visitas&color=3bc7bb&style=flat" alt=""/>
+</div>
+
+<h3 align="center">"Primero resuelve el problema, después escribe el código"</h3>
+<h4 align="center">-  -</h4>
+
+<hr>
+
 
 <br>
 
-## 🚀 Habilidades Técnicas
-
-### Lenguajes de Programación
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<div align="center" style="margin-bottom:200px">
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisKinnDC&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisKinnDC&theme=tokyonight&hide_border=true" />
 </div>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Profile%20views&color=008B8B&style=flat" alt="" /> </p> -->
 
-### Tecnologías y Herramientas
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+## Lenguajes y Herramientas
+<!--<img src="https://github.com/LuisKinnDC/Imagenes/blob/main/Imagenes/cumputer-student.png" min-width="500px" max-width="500px" width="500px" align="right" alt="">-->
+
+#### Lenguaje:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java&theme=light)](https://skillicons.dev)
+
+#### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=angular,spring&theme=light)](https://skillicons.dev)
+
+#### Base de Datos:
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+#### Herramientas:
+[![My Skills](https://skillicons.dev/icons?i=ps,idea,vscode,eclipse)](https://skillicons.dev)
 
 <br>
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuisKinnDC&show_icons=true&theme=radical&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisKinnDC&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisKinnDC&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
-<br>
-
-## 💡 Filosofía de Desarrollo
-
-> *"La excelencia técnica no se mide por las líneas de código escritas, sino por la elegancia de las soluciones implementadas."*  
-> *- Luis Flores -*
-
-<br>
-
-## 🛠️ Proyectos Destacados
-
-- **[Sistema de Gestión Académica](https://github.com/LuisKinnDC/sistema-academico)** - Plataforma integral para administración educativa
-- **[API REST para e-Commerce](https://github.com/LuisKinnDC/ecommerce-api)** - Backend escalable con Spring Boot
-- **[Analizador de Datos en Tiempo Real](https://github.com/LuisKinnDC/realtime-analytics)** - Procesamiento de streams con Python
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisKinnDC&label=Visitas&color=22D3EE&style=flat" alt="Contador de visitas"/>
+## Contactame:
+<div>
+<a href="https://instagram.com/luiskinndc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: luiskinndc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luis-k-flores-de-la-cruz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
