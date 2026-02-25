@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=3bc7bb&size=38&center=true&vCenter=true&width=1000&height=60&font=Architects+Daughter&lines=¡Bienvenido+a+mi+perfil!;Mi+Nombre+es+Luis+Kinn+DC;Soy+Estudiante+de+Ingeniería+de+Sistemas+e+Informacion" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=3bc7bb&size=38&center=true&vCenter=true&width=1000&height=60&font=Architects+Daughter&lines=¡Bienvenido+a+mi+perfil!;Mi+Nombre+es+Luis+Kinn+DC;Soy+Estudiante+de+Ingeniería+de+Sistemas+de+Informacion" alt="Headline" />
 </div>
 
 <div align="center">
